@@ -1,0 +1,3 @@
+# basic dependencies:
+# python3.7+
+numpy>=1.16
